@@ -41,7 +41,6 @@ LoginRegistrationProject/<br>
 CREATE DATABASE login;<br>
 USE login;<br>
 CREATE TABLE user (<br>
-    id INT PRIMARY KEY AUTO_INCREMENT,<br>
     firstname VARCHAR(10),<br>
     lastname VARCHAR(10),<br>
     username VARCHAR(10),<br>
